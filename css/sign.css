@@ -258,6 +258,7 @@ section .main {
   position: relative;
   left: 55%;
   bottom: 30px;
+  top: 1px;
 }
 
 /*Menu*/
